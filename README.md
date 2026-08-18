@@ -48,6 +48,11 @@ Projeto desenvolvido como parte dos estudos da Formação Full Stack da Rocketse
 
 👩‍💻 Autora
 
+## 📸 Preview
+
+![Travelgram](./assets/print.jpg)
+
+
 Fernanda de Castro
 
 GitHub: @fernandacastro96
