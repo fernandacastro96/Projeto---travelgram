@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como parte dos estudos da Formação Full Stack da
 - VsCode
 
 
-📸 Preview
+# 📸 Preview
 
 ![Travelgram](./Assets/Print.JPG)
 
