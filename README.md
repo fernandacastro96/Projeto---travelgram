@@ -29,7 +29,7 @@ Live Server
 
 📸 Preview
 
-- Travelgram(./Assets/Print.JPG)
+![Travelgram](./Assets/Print.JPG)
 
 
 
