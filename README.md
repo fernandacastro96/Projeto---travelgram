@@ -50,7 +50,7 @@ Projeto desenvolvido como parte dos estudos da Formação Full Stack da Rocketse
 
 ## 📸 Preview
 
-![Travelgram](./assets/print.jpg)
+![Travelgram](./assets/print.png)
 
 
 Fernanda de Castro
