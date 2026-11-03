@@ -3,9 +3,12 @@ footer {
     gap: 24px;
     padding-block: 24px;
     font: 14px/150% var(--font-family);
+    max-width: 1216px;
+    width: calc(100% - 48px);
+    margin-inline: auto;
 }
 
 footer span:nth-child(1) {
     margin-right: auto;
-  
 }
+

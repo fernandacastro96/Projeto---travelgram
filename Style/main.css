@@ -1,15 +1,17 @@
-main {
+
+ main {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
     padding-block: 24px;
-    justify-content: center;
-   
+    justify-content: flex-start;
+    max-width: 1216px;
+    width: calc(100% - 48px);
+    margin-inline: auto;
 }
- main img {
-    width: 286px;
-    height: 286px;
-    object-fit: cover;
-    
- }
 
+main img {
+    width: calc((100% - 72px) / 4);
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
